@@ -1,0 +1,28 @@
+Base feature score: 75/100
+Innovation bonus: 5
+Bug penalty: 0
+Overall grade: 80/100
+
+Features successfully implemented:
+- Third person control
+- Projectiles fire when left mouse is clicked
+- Targets destroyed when hit
+- Level walls
+
+Features not demonstrated
+- Ramp walking and falling
+- Level completion
+- Final pickup item appears and works correctly
+
+Innovations:
+- Follow AI
+- World wrapping
+
+Issues:
+Final pickup item doesn't disable player control or end the level.
+
+Good work on the character controller, and you got most of the basics,
+but the lack of level completion is a big miss. It's important to enjoy
+your work, and I approve of your artistic additions, but the functional
+elements have to take priority for this class, so please remember next
+time to demonstrate the requirements first.
